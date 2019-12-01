@@ -14,11 +14,17 @@ html *{
     #app img{
         width: 60% !important;
     }
+    #dash img{
+        width: 100% !important;
+    }
 }
 
 #app img {
     width: 70%;
     margin-left: 20%
+}
+#dash img{
+    width: 110%;
 }
 
 #time{
@@ -34,6 +40,9 @@ html *{
     margin-top: 20px;
 }
 #app p {
+    text-align: center;
+}
+#dash p {
     text-align: center;
 }
 /* barra de nav */
